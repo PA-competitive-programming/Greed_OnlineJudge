@@ -1,45 +1,39 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Grafos 2 - Online Judge
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 21<br>
+**Conteúdo da Disciplina**: Grafos2<br>
 
 ## Alunos
+
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0097181  |  Ana Beatriz Santos |
+| 20/0023748  |  Marcos Santos Bittar |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre
+
+Repositório com resoluções de problemas de grafos do [LeetCode](https://leetcode.com/).
+
+## Apresentação
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### Exercício 1 - Jump Game II
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Dificuldade: Médio <br>
+Link: [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)<br>
+Solução: [Código](assets/codes/jumpii.py)<br>
+O problema requer encontrar o número mínimo de saltos para alcançar o último índice de um array, dado que cada elemento do array indica o máximo de posições que você pode saltar para frente a partir desse índice. Para resolver este problema, usamos algoritmos ambiciosos.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+![](assets/img/exe1.png)
 
 
 
+## Instalação
 
+**Linguagem**: Python<br>
+Você precisará apenas criar uma conta no [LeetCode](https://leetcode.com/).
+
+## Uso
+
+Para executar o trabalho basta abrir o link do exercício e copiar e colar o código.
