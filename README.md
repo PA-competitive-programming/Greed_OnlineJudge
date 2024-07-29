@@ -1,7 +1,7 @@
 # Grafos 2 - Online Judge
 
 **Número da Lista**: 21<br>
-**Conteúdo da Disciplina**: Grafos2<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 
@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Repositório com resoluções de problemas de grafos do [LeetCode](https://leetcode.com/).
+Repositório com resoluções de problemas de algoritmo ambicioso do [LeetCode](https://leetcode.com/).
 
 ## Apresentação
 
@@ -27,7 +27,14 @@ O problema requer encontrar o número mínimo de saltos para alcançar o último
 
 ![](assets/img/exe1.png)
 
+### Exercício 2 - Reducing Dishes
 
+Dificuldade: Difícil <br>
+Link: [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/description/)<br>
+Solução: [Código](assets/codes/reducing.py)<br>
+Para resolver este problema com um algoritmo ambicioso, a ideia é que, para maximizar o somatório dos coeficientes de tempo de satisfação, devemos ordenar as satisfações em ordem decrescente e somar os pratos de forma que o impacto das satisfações maiores seja multiplicado por tempos maiores.
+
+![](assets/img/exe2.png)
 
 ## Instalação
 
