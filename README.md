@@ -36,6 +36,15 @@ Para resolver este problema com um algoritmo ambicioso, a ideia é que, para max
 
 ![](assets/img/exe2.png)
 
+### Exercício 3 - Earliest Possible Day of Full Bloom
+
+Dificuldade: Difícil <br>
+Link: [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)<br>
+Solução: [Código](assets/codes/earliest.py)<br>
+ara resolver este problema, onde temos que determinar o dia mais cedo em que todas as sementes estarão florescendo, precisamos considerar a ordem em que plantamos as sementes.
+
+![](assets/img/exe3.png)
+
 ## Instalação
 
 **Linguagem**: Python<br>
