@@ -15,6 +15,7 @@
 Repositório com resoluções de problemas de algoritmo ambicioso do [LeetCode](https://leetcode.com/).
 
 ## Apresentação
+[![Video Thumbnail](assets/img/thumb.png)](https://www.youtube.com/watch?v=1J-lhYr8GhM)
 
 ## Screenshots
 
@@ -41,7 +42,7 @@ Para resolver este problema com um algoritmo ambicioso, a ideia é que, para max
 Dificuldade: Difícil <br>
 Link: [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)<br>
 Solução: [Código](assets/codes/earliest.py)<br>
-ara resolver este problema, onde temos que determinar o dia mais cedo em que todas as sementes estarão florescendo, precisamos considerar a ordem em que plantamos as sementes.
+Para resolver este problema, onde temos que determinar o dia mais cedo em que todas as sementes estarão florescendo, precisamos considerar a ordem em que plantamos as sementes.
 
 ![](assets/img/exe3.png)
 
