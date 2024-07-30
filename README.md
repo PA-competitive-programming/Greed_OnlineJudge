@@ -1,4 +1,4 @@
-# Grafos 2 - Online Judge
+# Algoritmos Ambiciosos - Online Judge
 
 **Número da Lista**: 21<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
